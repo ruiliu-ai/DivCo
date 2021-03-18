@@ -8,7 +8,7 @@ Contact: Rui Liu (ruiliu@link.cuhk.edu.hk)
 DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network<br>
 [Rui Liu](https://ruiliu-ai.github.io/), [Yixiao Ge](https://geyixiao.com/), [Ching Lam Choi](https://github.com/chinglamchoi), [Xiaogang Wang](https://www.ee.cuhk.edu.hk/~xgwang/), and [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<br>
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 <br>
-[[arxiv]](https://arxiv.org)
+[[arxiv]](https://arxiv.org/abs/2103.07893)
 ## Citing DivCo
 If you find DivCo useful in your research, please consider citing:
 ```
